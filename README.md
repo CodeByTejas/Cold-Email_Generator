@@ -55,7 +55,7 @@ This project is licensed under the MIT License.
 ## Contact
 For any inquiries, please contact:
 - **Name**: Tejas Sanjay Gupta
-- **Email**: <your-email@example.com>
+- **Email**: guptatejas86@gmail.com
 
 ```
 
